@@ -28,7 +28,7 @@ With continual refinement and computational support, DOCANSWERS could redefine t
 
 ## Screenshots
 
-### PDFANSWERS
+### PDF-ANSWER
 ![SS1](https://github.com/user-attachments/assets/e06829c7-f362-47b5-8854-8dfe2c073415)
 
 ![PDFss2](https://github.com/user-attachments/assets/18747443-efbb-42c9-a5d2-81b094d35acb)
