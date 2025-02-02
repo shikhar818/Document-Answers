@@ -16,7 +16,7 @@ Provides information about various documents such as websites,pdf,docx file usin
   https://ollama.com/library/llama3.2
   https://ollama.com/library/nomic-embed-text
 
-# PDFANSWERS
+# DOCANSWERS
 **DOCANSWERS** is an AI-powered API designed to answer questions from multiple sources such as pdf,docs and websites using webscraping by utilizing embeddings, a vector store, and a large language model (LLM). The project employs Retrieval-Augmented Generation (RAG) to improve response accuracy by retrieving relevant document chunks before generating answers.
 
 ## Result 
