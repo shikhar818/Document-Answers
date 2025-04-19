@@ -1,5 +1,5 @@
 # Document-Answers
-Provides information about various documents such as websites,pdf,docx file using any ollama model (LLM+RAG) using Langchain in Python.
+Provides information about various documents such as websites,pdf,docx file using any ollama model (LLM+RAG) using Langchain,FASTAPI in Python.
 
 ## Getting Started
 
